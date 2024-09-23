@@ -79,6 +79,9 @@ The final dashboards provide an interactive platform for decision-makers to dril
 ![S - 1 (2)](https://github.com/user-attachments/assets/47199587-7c9b-4c26-ba86-d235900bc737)
 
 
+Live Dashboard : https://app.powerbi.com/view?r=eyJrIjoiMTI4OGY4NmMtYWZmMC00OGYyLTkyYzMtNjA2NDhiZmY1NjE1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+
 
 ## Databricks Transformation Code
 
