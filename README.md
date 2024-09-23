@@ -75,6 +75,11 @@ With the transformed data stored in the lake, **Azure Synapse Analytics** was us
 
 The final dashboards provide an interactive platform for decision-makers to drill down into specific metrics. The Power BI reports highlight key trends and patterns, offering valuable insights into Olympic performance.
 
+![S - 1 (1)](https://github.com/user-attachments/assets/ba5dd66a-2096-44ab-b987-3ac8b577ded7)
+![S - 1 (2)](https://github.com/user-attachments/assets/47199587-7c9b-4c26-ba86-d235900bc737)
+
+
+
 ## Databricks Transformation Code
 
 The full data transformation code implemented in **Azure Databricks** can be accessed [here](https://github.com/Rahul-Patel321/Tokyo-Olympic-azure-data-engineeering-project/blob/main/Tokyo%20Olympic%20Transformation.ipynb).
